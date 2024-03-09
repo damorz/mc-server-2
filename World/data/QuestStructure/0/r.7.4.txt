@@ -1,1 +1,2 @@
 RLCraft_FriendlyOutpost,4004,4072,2092,2131
+StonePlantMound3,4017,4026,2236,2247

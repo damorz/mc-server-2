@@ -3652,3 +3652,225 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:04:51] [Server thread/INFO] [FML]: Unloading dimension 111
 [20:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/20 players online:
 [20:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[20:26:47] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[20:26:47] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[20:26:47] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[20:26:47] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[20:26:47] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[20:26:47] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[20:26:48] [Netty Server IO #8/INFO] [FML]: Client protocol version 2
+[20:26:48] [Netty Server IO #8/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[20:26:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:26:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: SpencerXD[/10.154.1.200:9876] logged in with entity id 321 at (4247.393547474452, 67.0, 1911.6418135350418)
+[20:26:49] [Server thread/INFO] [dsurround]: Player [SpencerXD] connected with Dynamic Surroundings 3.6.2.1
+[20:26:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD joined the game
+[20:26:49] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player SpencerXD
+[20:26:49] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: SpencerXD
+[20:26:49] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: SpencerXD
+[20:26:49] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player SpencerXD
+[20:26:49] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player SpencerXD
+[20:26:49] [Server thread/INFO] [XAT]: Syncing Config to SpencerXD
+[20:26:50] [Thread-54/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 3d45419f-a210-34be-860c-d70d23a85a51.
+[20:27:14] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
+[20:27:14] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
+[20:27:14] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[20:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD burned to death
+[20:34:07] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[20:34:07] [Server thread/INFO] [RB-Transformer]:  - <init>
+[20:34:07] [Server thread/INFO] [RB-Transformer]:  - Done
+[20:34:07] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[20:34:07] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[20:34:07] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[20:36:40] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[20:36:40] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[20:36:40] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[20:36:40] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[20:36:40] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:36:41] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[20:36:41] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:37:30] [Netty Server IO #12/INFO] [FML]: Client protocol version 2
+[20:37:30] [Netty Server IO #12/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[20:37:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:37:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: promm[/10.154.1.200:32447] logged in with entity id 15619 at (4249.017294060127, 68.0, 1912.1290109182455)
+[20:37:31] [Server thread/INFO] [dsurround]: Player [promm] connected with Dynamic Surroundings 3.6.2.1
+[20:37:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm joined the game
+[20:37:31] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player promm
+[20:37:31] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: promm
+[20:37:31] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: promm
+[20:37:31] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player promm
+[20:37:31] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player promm
+[20:37:31] [Server thread/INFO] [XAT]: Syncing Config to promm
+[20:37:32] [Thread-78/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 13a0d1d3-5943-3464-9944-dbfe4be3fff0.
+[20:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Violet Chupacabra  Lvl 2
+[20:40:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was shot by Skeleton
+[20:42:43] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[20:42:43] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[20:42:43] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:42:43] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[20:42:43] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:44:20] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[20:44:20] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[20:44:20] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[20:44:20] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[20:44:20] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:44:20] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[20:44:20] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:44:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: promm moved wrongly!
+[20:44:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: promm moved wrongly!
+[20:44:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: promm moved wrongly!
+[20:48:28] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[20:48:28] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[20:48:28] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[20:48:28] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[20:48:28] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:48:28] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[20:48:29] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:48:38] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[20:48:38] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[20:48:38] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[20:48:38] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[20:48:38] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:48:38] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[20:48:39] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Morock  Lvl 2
+[20:49:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Morock  Lvl 2
+[20:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Morock  Lvl 2
+[20:50:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Morock  Lvl 2
+[20:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Morock  Lvl 2
+[20:50:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Morock  Lvl 2
+[20:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was burnt to a crisp whilst fighting Trite  Lvl 2
+[20:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Zombie
+[20:51:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm has made the advancement [Into Fire]
+[20:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Morock  Lvl 2
+[20:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Zombie Pigman
+[20:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Morock  Lvl 2
+[20:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Morock  Lvl 2
+[20:55:11] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[20:55:11] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[20:55:11] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[20:55:11] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[20:55:11] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:55:11] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[20:55:12] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:55:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Chupacabra  Lvl 2
+[20:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Darkling  Lvl 2
+[20:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Grue  Lvl 2
+[20:56:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Gnekk  Lvl 2
+[20:57:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Gnekk  Lvl 2
+[20:57:08] [Thread-136/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 3d45419f-a210-34be-860c-d70d23a85a51.
+[20:57:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was shot by Skeleton
+[20:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was shot by Skeleton
+[20:57:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Geist  Lvl 2
+[20:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Tremor  Lvl 2
+[20:59:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Tremor  Lvl 2
+[21:00:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Tremor  Lvl 2
+[21:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Chupacabra  Lvl 2
+[21:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Chupacabra  Lvl 2
+[21:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Roc  Lvl 2
+[21:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was slain by Feradon  Lvl 2
+[21:07:42] [Thread-161/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 13a0d1d3-5943-3464-9944-dbfe4be3fff0.
+[21:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was pummeled by Reaper  Lvl 2
+[21:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm was pummeled by Reaper  Lvl 2
+[21:08:56] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[21:08:56] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[21:08:56] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[21:08:56] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[21:08:56] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:08:57] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[21:08:57] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:09:22] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[21:09:22] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[21:09:22] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[21:09:22] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[21:09:22] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:09:22] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[21:09:23] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was slain by Trite  Lvl 2
+[21:15:03] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[21:15:03] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[21:15:03] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[21:15:03] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[21:15:03] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:15:03] [Server thread/INFO] [antiqueatlas]: Exiting
+[21:15:03] [Server thread/INFO] [antiqueatlas]: Player SpencerXD left the overworld
+[21:15:03] [Server thread/INFO] [antiqueatlas]: Entering
+[21:15:03] [Server thread/INFO] [antiqueatlas]: Player SpencerXD teleported to the the_nether
+[21:15:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD has made the advancement [We Need to Go Deeper]
+[21:15:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was killed by magic
+[21:15:54] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[21:15:54] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:16:12] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[21:16:12] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[21:16:12] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[21:16:12] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[21:16:12] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:16:12] [Server thread/INFO] [antiqueatlas]: Exiting
+[21:16:12] [Server thread/INFO] [antiqueatlas]: Player SpencerXD left the overworld
+[21:16:12] [Server thread/INFO] [antiqueatlas]: Entering
+[21:16:12] [Server thread/INFO] [antiqueatlas]: Player SpencerXD teleported to the the_nether
+[21:16:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD was pummeled by Behemophet
+[21:16:55] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[21:16:56] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:17:09] [Server thread/INFO] [FML]: Loading dimension -1 (World) (net.minecraft.server.dedicated.DedicatedServer@5148f8e5)
+[21:17:09] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (World)
+[21:17:09] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (World) to HARD
+[21:17:09] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 606
+[21:17:09] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:17:09] [Server thread/INFO] [antiqueatlas]: Exiting
+[21:17:09] [Server thread/INFO] [antiqueatlas]: Player SpencerXD left the overworld
+[21:17:09] [Server thread/INFO] [antiqueatlas]: Entering
+[21:17:09] [Server thread/INFO] [antiqueatlas]: Player SpencerXD teleported to the the_nether
+[21:17:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:17:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:17:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:17:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[21:18:20] [Server thread/INFO] [antiqueatlas]: Exiting
+[21:18:20] [Server thread/INFO] [antiqueatlas]: Player SpencerXD left the the_nether
+[21:18:20] [Server thread/INFO] [antiqueatlas]: Entering
+[21:18:20] [Server thread/INFO] [antiqueatlas]: Player SpencerXD teleported to the overworld
+[21:18:21] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (World) to config
+[21:18:22] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:22:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SpencerXD lost connection: Disconnected
+[21:22:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SpencerXD left the game
+[21:22:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: promm lost connection: Disconnected
+[21:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm left the game
+[21:22:24] [Netty Server IO #31/INFO] [FML]: Client protocol version 2
+[21:22:24] [Netty Server IO #31/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[21:22:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:22:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: damorz[/10.154.1.200:49191] logged in with entity id 84017 at (4256.570356469401, 67.0, 1903.9944331484487)
+[21:22:25] [Server thread/INFO] [dsurround]: Player [damorz] connected with Dynamic Surroundings 3.6.2.1
+[21:22:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: damorz joined the game
+[21:22:25] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player damorz
+[21:22:25] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: damorz
+[21:22:25] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: damorz
+[21:22:25] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player damorz
+[21:22:25] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player damorz
+[21:22:25] [Server thread/INFO] [XAT]: Syncing Config to damorz
+[21:22:26] [Thread-224/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 44cbb5e2-7630-3609-a17b-fbf0b79a1295.
+[21:22:35] [Netty Server IO #33/INFO] [FML]: Client protocol version 2
+[21:22:35] [Netty Server IO #33/INFO] [FML]: Client attempting to join with 185 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[21:22:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:22:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: promm[/10.154.1.200:37270] logged in with entity id 84156 at (4505.2157455209335, 75.0, 1721.685341169675)
+[21:22:36] [Server thread/INFO] [dsurround]: Player [promm] connected with Dynamic Surroundings 3.6.2.1
+[21:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm joined the game
+[21:22:36] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player promm
+[21:22:36] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: promm
+[21:22:36] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: promm
+[21:22:36] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player promm
+[21:22:36] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player promm
+[21:22:36] [Server thread/INFO] [XAT]: Syncing Config to promm
+[21:22:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: damorz lost connection: Disconnected
+[21:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: damorz left the game
+[21:23:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: promm lost connection: Disconnected
+[21:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: promm left the game
+[21:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:24:26] [Server thread/INFO] [AUW]: Stopping DS...
+[21:24:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:24:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:24:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:24:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'World'/overworld
+[21:24:26] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension 0 (World) to config
+[21:24:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:24:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:24:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:24:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

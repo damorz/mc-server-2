@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2567-03-09 20:51:38 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2567-03-09 01:45:25 +0700"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2567-03-09 00:28:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2567-03-09 21:20:16 +0700"
     },
     "done": true
   },
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2567-03-09 20:56:30 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2567-03-09 00:28:27 +0700"
@@ -104,6 +122,12 @@
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2567-03-09 02:45:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2567-03-09 21:20:11 +0700"
     },
     "done": true
   },
@@ -263,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2567-03-09 20:40:45 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2567-03-09 01:12:22 +0700"
@@ -284,6 +314,12 @@
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2567-03-09 00:48:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2567-03-09 20:40:49 +0700"
     },
     "done": true
   },
@@ -314,7 +350,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2567-03-09 01:10:57 +0700",
-      "rabbit": "2567-03-09 02:11:08 +0700"
+      "apple": "2567-03-09 21:21:48 +0700",
+      "rabbit": "2567-03-09 02:11:08 +0700",
+      "rotten_flesh": "2567-03-09 21:17:56 +0700"
     },
     "done": false
   },
@@ -354,9 +392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2567-03-09 20:56:30 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2567-03-09 00:48:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2567-03-09 20:58:15 +0700"
     },
     "done": true
   },
@@ -468,9 +518,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2567-03-09 20:56:30 +0700"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2567-03-09 01:00:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2567-03-09 20:51:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2567-03-09 21:20:16 +0700"
     },
     "done": true
   },
@@ -516,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2567-03-09 20:51:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2567-03-09 02:08:15 +0700"
@@ -546,9 +620,27 @@
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2567-03-09 20:51:39 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2567-03-09 02:45:47 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2567-03-09 20:58:15 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2567-03-09 20:51:38 +0700"
     },
     "done": true
   },
@@ -586,10 +678,12 @@
     "criteria": {
       "forest": "2567-03-09 00:33:55 +0700",
       "birch_forest": "2567-03-09 00:37:19 +0700",
+      "deep_ocean": "2567-03-09 21:19:30 +0700",
       "beaches": "2567-03-09 00:27:13 +0700",
       "plains": "2567-03-09 00:34:38 +0700",
       "jungle_hills": "2567-03-09 00:35:16 +0700",
       "jungle_edge": "2567-03-09 00:37:04 +0700",
+      "birch_forest_hills": "2567-03-09 21:14:50 +0700",
       "ocean": "2567-03-09 00:27:20 +0700",
       "river": "2567-03-09 00:33:53 +0700",
       "jungle": "2567-03-09 00:36:17 +0700",
@@ -684,6 +778,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2567-03-09 01:45:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2567-03-09 20:54:45 +0700"
     },
     "done": true
   },
@@ -803,7 +903,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2567-03-09 20:39:30 +0700",
+      "skeleton": "2567-03-09 20:38:40 +0700",
       "zombie": "2567-03-09 01:00:18 +0700",
+      "witch": "2567-03-09 21:01:35 +0700",
       "spider": "2567-03-09 01:24:22 +0700"
     },
     "done": false
@@ -847,6 +950,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2567-03-09 00:48:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2567-03-09 20:56:30 +0700"
     },
     "done": true
   },

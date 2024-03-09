@@ -3,3 +3,4 @@ ShrineSmallFire,4281,4291,2095,2105
 RLCraft_SmallUndergroundSkeleton,4278,4286,2179,2187
 RLCraft_SmallUndergroundSkeleton,4357,4365,2161,2169
 DinosaurSkull,4176,4195,2256,2267
+SmallFortRuins,4455,4485,2256,2288
