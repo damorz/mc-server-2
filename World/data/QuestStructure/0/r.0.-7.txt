@@ -1,0 +1,5 @@
+P_MayanTemple1,-336,-306,-4118,-4072
+P_MayanTemple3,-360,-316,-4026,-3973
+RLCraft_UndergroundFarm,-390,-347,-3982,-3940
+DinosaurSkull,-157,-138,-4070,-4059
+RLCraft_SmallUndergroundSkeleton,-87,-79,-4003,-3995

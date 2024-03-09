@@ -1,0 +1,12 @@
+StonePlantMound4,6775,6782,1994,2001
+StonePlantBoulder,6794,6804,2012,2022
+StonePlantBoulder,6759,6769,1957,1967
+StonePlantMound1,6825,6831,2012,2018
+RLCraft_DecentCaveSpider,6777,6777,2045,2045
+RLCraft_UndergroundRuin2,6775,6782,2040,2050
+StonePlantMound2,6712,6725,1983,1995
+DinosaurSkeleton,6889,6935,1958,1967
+StonePlantMound1,6657,6663,2029,2035
+StonePlantMound,6659,6664,1935,1940
+StonePlantMound4,6804,6811,1838,1845
+StonePlantMound,6853,6858,1855,1860

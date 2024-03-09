@@ -1,0 +1,4 @@
+ShrineSmallWater,-4147,-4139,-5426,-5418
+ShrineSmallFire,-4187,-4177,-5364,-5354
+RLCraft_DecentZombie,-4200,-4200,-5506,-5506
+RLCraft_UndergroundRuin3,-4202,-4194,-5509,-5501

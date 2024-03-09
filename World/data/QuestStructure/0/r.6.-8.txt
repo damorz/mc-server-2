@@ -1,0 +1,6 @@
+StonePlantBoulder,3352,3362,-4113,-4103
+AbandonedWoodTower,3341,3371,-4124,-4088
+RLCraft_DecentSkeleton,3374,3374,-4129,-4129
+RLCraft_UndergroundRuin2,3372,3379,-4134,-4124
+RLCraft_PlainsCamp,3382,3428,-4155,-4116
+StonePlantBoulder,3276,3286,-4144,-4134

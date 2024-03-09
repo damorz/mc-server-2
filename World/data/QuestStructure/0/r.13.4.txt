@@ -1,0 +1,5 @@
+StonePlantMound1,6843,6849,2063,2069
+StoneLeafMound,6722,6731,2072,2079
+StonePlantMound2,6858,6870,2077,2090
+StonePlantBoulder,6910,6920,2066,2076
+StonePlantMound3,6680,6689,2102,2113

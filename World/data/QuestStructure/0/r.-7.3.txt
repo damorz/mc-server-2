@@ -1,0 +1,5 @@
+RLCraft_Airtes,-3674,-3659,1534,1549
+StonePlantBoulder,-3699,-3689,1572,1582
+RLCraft_SmallUndergroundSkeleton,-3753,-3745,1554,1562
+StonePlantMound,-3587,-3582,1611,1616
+UndergroundCultChamber,-3662,-3630,1589,1631

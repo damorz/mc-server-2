@@ -1,0 +1,5 @@
+StonePlantMound1,-5050,-5044,-5235,-5229
+StoneLeafMound,-5033,-5024,-5315,-5308
+ClayWaterMound1,-5011,-5000,-5220,-5210
+StonePlantMound4,-5025,-5018,-5190,-5183
+ShrineSmallFire,-5018,-5008,-5324,-5314

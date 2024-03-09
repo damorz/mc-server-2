@@ -1,0 +1,11 @@
+StonePlantMound,-9866,-9861,-62,-57
+StonePlantMound2,-9813,-9801,8,21
+RLCraft_DecentWitch,-9800,-9800,81,81
+RLCraft_UndergroundRuin2,-9805,-9798,76,86
+StonePlantMound1,-9900,-9894,-111,-105
+StonePlantMound3,-9936,-9927,-37,-26
+RLCraft_DecentWitch,-9814,-9814,110,110
+RLCraft_UndergroundRuin3,-9819,-9811,108,116
+StoneLeafMound,-9933,-9924,91,98
+StoneLeafMound,-9935,-9928,91,100
+UndergroundCultChamber,-9960,-9918,134,166

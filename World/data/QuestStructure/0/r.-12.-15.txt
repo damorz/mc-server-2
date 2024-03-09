@@ -1,0 +1,5 @@
+P_RuinedHouse,-6632,-6615,-7816,-7791
+StonePlantMound1,-6621,-6615,-7784,-7778
+StonePlantMound4,-6605,-6598,-7718,-7711
+UndergroundCultChamber,-6584,-6552,-8078,-8036
+StoneLeafMound,-6521,-6512,-7724,-7717

@@ -1,0 +1,5 @@
+RLCraft_DecentCaveSpider,2425,2425,-6002,-6002
+RLCraft_UndergroundRuin2,2420,2430,-6007,-6000
+RLCraft_SmallTown,2468,2539,-6174,-6099
+ShrineSmallWater,2341,2349,-6072,-6064
+StoneLeafMound,2373,2382,-5936,-5929

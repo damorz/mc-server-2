@@ -1,0 +1,16 @@
+RLCraft_SmallUndergroundSkeleton,-5977,-5969,6312,6320
+StonePlantBoulder,-6002,-5992,6257,6267
+StonePlantMound2,-6020,-6008,6280,6293
+JokerTower,-5976,-5968,6194,6202
+StonePlantMound4,-5946,-5939,6148,6155
+StonePlantMound,-6055,-6050,6259,6264
+StoneBoulder,-6063,-6054,6231,6240
+StonePlantMound1,-5951,-5945,6416,6422
+RLCraft_DecentSpider,-5858,-5858,6395,6395
+RLCraft_UndergroundRuin2,-5860,-5853,6390,6400
+UndergroundCultChamber,-6084,-6052,6323,6365
+StonePlantBoulder,-5805,-5795,6209,6219
+WoodWallRemains,-6092,-6064,6408,6416
+StonePlantMound4,-6110,-6103,6163,6170
+StonePlantMound3,-6148,-6137,6204,6213
+StonePlantMound3,-6144,-6135,6360,6371

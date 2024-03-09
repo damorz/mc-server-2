@@ -1,0 +1,4 @@
+UndergroundCrypt,-1171,-1157,-5829,-5801
+BlazeSpawnerCrystal,-1360,-1354,-5708,-5702
+StonePlantMound1,-1383,-1377,-5700,-5694
+StonePlantMound,-1443,-1438,-5688,-5683

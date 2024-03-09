@@ -1,0 +1,2 @@
+SmallWoodenCottage1,3183,3189,5310,5321
+MysticalTree1,3166,3179,5323,5334

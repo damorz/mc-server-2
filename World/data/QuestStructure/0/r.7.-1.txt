@@ -1,0 +1,1 @@
+StonePlantMound,3591,3596,-890,-885

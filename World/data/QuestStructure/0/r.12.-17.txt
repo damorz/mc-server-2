@@ -1,0 +1,8 @@
+StonePlantBoulder,6465,6475,-9034,-9024
+StonePlantMound3,6426,6435,-9064,-9053
+PeacefulCrypt,6509,6533,-8939,-8923
+RLCraft_LargeUndergroundTown,6315,6428,-9007,-8870
+MysticalTree1,6347,6360,-9086,-9075
+StonePlantMound4,6489,6496,-8809,-8802
+StonePlantMound2,6272,6284,-9013,-9000
+DinosaurSkeleton,6245,6291,-9009,-9000

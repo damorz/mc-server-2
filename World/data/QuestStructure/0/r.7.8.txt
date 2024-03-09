@@ -1,0 +1,5 @@
+P_Lighthouse,4035,4072,4441,4481
+ShrineSmallWater,4021,4029,4239,4247
+UndergroundTreeoid,3901,3924,4429,4455
+RLCraft_BasicWitch,3910,3910,4260,4260
+RLCraft_UndergroundRuin1,3907,3916,4254,4263

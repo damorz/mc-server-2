@@ -1,0 +1,8 @@
+StonePlantMound,-3049,-3044,3009,3014
+StonePlantMound2,-2968,-2956,2914,2927
+StonePlantBoulder,-2948,-2938,2947,2957
+PeacefulCrypt,-3021,-3005,3030,3054
+StonePlantMound4,-3064,-3057,2831,2838
+RLCraft_DecentSpider,-2880,-2880,2984,2984
+RLCraft_UndergroundRuin2,-2885,-2878,2979,2989
+WoodWallRemains,-2906,-2898,2806,2834

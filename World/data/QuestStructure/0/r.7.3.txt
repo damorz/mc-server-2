@@ -1,0 +1,5 @@
+DinosaurSkull,3973,3992,1996,2007
+RLCraft_DecentSkeleton,4023,4023,1545,1545
+RLCraft_UndergroundRuin3,4021,4029,1542,1550
+StonePlantMound,3947,3952,1576,1581
+RLCraft_SmallUndergroundSkeleton,4050,4058,1652,1660

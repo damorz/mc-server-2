@@ -1,0 +1,17 @@
+StonePlantMound2,5472,5484,-8601,-8588
+StonePlantMound4,5428,5435,-8554,-8547
+StonePlantBoulder,5435,5445,-8518,-8508
+StonePlantMound1,5483,5489,-8529,-8523
+StoneLeafMound,5365,5374,-8499,-8492
+StonePlantMound1,5353,5359,-8449,-8443
+StonePlantMound4,5269,5276,-8524,-8517
+StonePlantMound4,5414,5421,-8414,-8407
+RLCraft_PlainsCamp,5518,5564,-8491,-8452
+DinosaurSkeleton,5254,5263,-8515,-8469
+StonePlantMound1,5576,5582,-8448,-8442
+WoodWallRemains,5301,5329,-8403,-8395
+StonePlantMound1,5474,5480,-8409,-8403
+StonePlantMound1,5238,5244,-8444,-8438
+StonePlantMound3,5245,5256,-8398,-8389
+StonePlantMound3,5369,5380,-8387,-8378
+ShrineSmallAir,5201,5209,-8487,-8479

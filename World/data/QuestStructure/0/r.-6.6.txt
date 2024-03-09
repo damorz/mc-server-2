@@ -1,0 +1,3 @@
+ClayWaterMound1,-3168,-3158,3075,3086
+StonePlantMound1,-3121,-3115,3101,3107
+ShrineSmallAir,-3186,-3178,3111,3119

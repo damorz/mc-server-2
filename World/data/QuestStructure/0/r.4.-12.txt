@@ -1,0 +1,3 @@
+P_WizardTower,2521,2551,-6213,-6183
+DinosaurSkeleton,2418,2427,-6231,-6185
+StonePlantMound2,2382,2395,-6268,-6256

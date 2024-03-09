@@ -1,0 +1,4 @@
+SmallWoodenCottage1,9733,9744,9644,9650
+StonePlantMound4,9813,9820,9708,9715
+RLCraft_SmallUndergroundSkeleton,9769,9777,9540,9548
+P_WitchDungeon,9796,9813,9548,9582

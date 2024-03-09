@@ -1,0 +1,8 @@
+StonePlantBoulder,2552,2562,9496,9506
+RLCraft_GreatCreeper,2559,2559,9495,9495
+RLCraft_GoodWitherSkeleton,2559,2559,9495,9495
+RLCraft_GoodSkeleton2,2559,2559,9495,9495
+RLCraft_DecentZombie,2559,2559,9495,9495
+RLCraft_BasicZombie,2559,2559,9495,9495
+WoodThornBig,2550,2563,9547,9560
+StonePlantMound4,2540,2547,9485,9492

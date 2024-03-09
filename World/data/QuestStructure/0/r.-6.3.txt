@@ -1,0 +1,9 @@
+StonePlantMound,-3554,-3549,1583,1588
+StonePlantBoulder,-3502,-3492,1561,1571
+StoneBoulder,-3478,-3469,1614,1623
+P_TreeDungeon,-3512,-3467,1584,1626
+WoodWallRemains,-3472,-3444,1599,1607
+StonePlantMound1,-3455,-3449,1612,1618
+StonePlantMound2,-3524,-3512,1623,1636
+StonePlantMound1,-3395,-3389,1538,1544
+StonePlantMound4,-3319,-3312,1592,1599

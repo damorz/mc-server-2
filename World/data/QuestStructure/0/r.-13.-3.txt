@@ -1,0 +1,4 @@
+RLCraft_DecentCaveSpider,-6675,-6675,-1902,-1902
+RLCraft_UndergroundRuin3,-6677,-6669,-1905,-1897
+RLCraft_BasicCaveSpider,-6715,-6715,-1928,-1928
+RLCraft_UndergroundRuin1,-6721,-6712,-1934,-1925

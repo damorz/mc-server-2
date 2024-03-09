@@ -1,0 +1,9 @@
+RLCraft_DecentZombie,5558,5558,-3210,-3210
+RLCraft_UndergroundRuin3,5552,5560,-3215,-3207
+MeteorSite,5381,5411,-3258,-3243
+StonePlantMound1,5449,5455,-3315,-3309
+StoneBoulder,5385,5394,-3285,-3276
+StonePlantMound1,5356,5362,-3255,-3249
+ClayWaterMound1,5390,5400,-3092,-3081
+P_SmallShip,5557,5563,-3105,-3085
+StonePlantMound3,5302,5313,-3100,-3091

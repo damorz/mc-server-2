@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,2743,2751,5466,5474
+RLCraft_DecentWitch,2672,2672,5518,5518
+RLCraft_UndergroundRuin3,2670,2678,5515,5523
+DinosaurSkull,2653,2664,5347,5366
+RLCraft_DecentWitch,2824,2824,5434,5434
+RLCraft_UndergroundRuin3,2821,2829,5432,5440
+RLCraft_BasicSpider,2603,2603,5350,5350
+RLCraft_UndergroundRuin1,2597,2606,5347,5356
+RLCraft_DecentSpider,2810,2810,5615,5615
+RLCraft_UndergroundRuin3,2805,2813,5613,5621
+DinosaurSkull,2815,2826,5320,5339
+RLCraft_DecentZombie,2851,2851,5328,5328
+RLCraft_UndergroundRuin2,2846,2853,5323,5333

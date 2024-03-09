@@ -1,0 +1,7 @@
+ClayWaterMound1,-6699,-6688,-7807,-7797
+StonePlantMound3,-6684,-6673,-7813,-7804
+StoneLeafMound,-6705,-6696,-7795,-7788
+StonePlantBoulder,-6770,-6760,-7811,-7801
+StonePlantMound3,-6738,-6729,-7730,-7719
+StoneLeafMound,-6763,-6754,-7688,-7681
+StonePlantMound2,-6845,-6833,-7694,-7681

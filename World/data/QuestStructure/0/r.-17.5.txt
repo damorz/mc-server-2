@@ -1,0 +1,4 @@
+StonePlantMound4,-9101,-9094,2748,2755
+StonePlantMound,-9086,-9081,2780,2785
+StonePlantBoulder,-9085,-9075,2797,2807
+BrickHenge,-9204,-9188,2817,2833

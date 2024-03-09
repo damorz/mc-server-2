@@ -1,0 +1,3 @@
+SmallAbandonedMine,-5651,-5626,-5139,-5124
+StonePlantMound1,-5785,-5779,-5275,-5269
+P_WizardTower,-5824,-5794,-5168,-5138

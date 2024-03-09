@@ -1,0 +1,5 @@
+StonePlantBoulder,-6712,-6702,-7601,-7591
+ShrineSmallAir,-6686,-6678,-7600,-7592
+StonePlantMound4,-6750,-6743,-7668,-7661
+StonePlantMound,-6689,-6684,-7517,-7512
+StonePlantMound4,-6821,-6814,-7634,-7627

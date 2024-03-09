@@ -1,0 +1,12 @@
+StonePlantMound,-5234,-5229,-5113,-5108
+StonePlantMound3,-5248,-5239,-5089,-5078
+MeteorSite,-5353,-5338,-5102,-5072
+SmallWoodenCottage1,-5266,-5260,-5060,-5049
+ClayWaterMound1,-5377,-5367,-5089,-5078
+StoneBoulder,-5459,-5450,-5101,-5092
+StonePlantMound,-5455,-5450,-5051,-5046
+StoneBoulder,-5497,-5488,-5030,-5021
+StonePlantMound2,-5408,-5396,-5021,-5008
+RLCraft_SmallUndergroundSkeleton,-5555,-5547,-4994,-4986
+PeacefulCrypt,-5546,-5522,-5005,-4989
+ShrineSmallFire,-5607,-5597,-4990,-4980

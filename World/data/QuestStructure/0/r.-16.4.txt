@@ -1,0 +1,9 @@
+StonePlantMound2,-8414,-8402,2537,2550
+RLCraft_BasicWitch,-8277,-8277,2497,2497
+RLCraft_UndergroundRuin1,-8280,-8271,2494,2503
+UndergroundCultChamber,-8716,-8684,2108,2150
+UndergroundCrypt,-8709,-8695,2276,2304
+RLCraft_DecentWitch,-8648,-8648,2319,2319
+RLCraft_UndergroundRuin3,-8650,-8642,2316,2324
+RLCraft_DecentZombie,-8610,-8610,2335,2335
+RLCraft_UndergroundRuin3,-8613,-8605,2329,2337

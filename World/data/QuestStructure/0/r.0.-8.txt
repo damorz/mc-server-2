@@ -1,0 +1,10 @@
+RLCraft_SmallUndergroundSkeleton,-391,-383,-4210,-4202
+StonePlantMound,-278,-273,-4228,-4223
+StonePlantMound2,-291,-279,-4244,-4231
+StoneLeafMound,-280,-273,-4254,-4245
+FallenPalmTree,-497,-487,-4264,-4260
+StoneLeafMound,-194,-187,-4113,-4104
+RLCraft_SmallUndergroundSkeleton,-194,-186,-4265,-4257
+StonePlantMound,-145,-140,-4110,-4105
+StonePlantMound3,-109,-100,-4102,-4091
+StonePlantMound4,-79,-72,-4115,-4108
