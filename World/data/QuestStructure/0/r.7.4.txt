@@ -1,2 +1,16 @@
 RLCraft_FriendlyOutpost,4004,4072,2092,2131
 StonePlantMound3,4017,4026,2236,2247
+StonePlantMound1,4055,4061,2284,2290
+RLCraft_BasicWitch,3944,3944,2212,2212
+RLCraft_UndergroundRuin1,3941,3950,2206,2215
+RLCraft_SmallUndergroundSkeleton,3719,3727,2091,2099
+StonePlantMound,3709,3714,2076,2081
+StoneLeafMound,3692,3701,2088,2095
+StonePlantMound4,3734,3741,2122,2129
+RLCraft_Airtes,3627,3642,2175,2190
+StoneLeafMound,3745,3754,2168,2175
+RLCraft_SmallUndergroundSkeleton,3819,3827,2203,2211
+StonePlantMound4,3694,3701,2207,2214
+P_SpookyHouse,3846,3872,2210,2250
+ClayWaterMound,3929,3936,2225,2233
+StonePlantMound4,3912,3919,2253,2260

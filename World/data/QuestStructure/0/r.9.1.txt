@@ -1,0 +1,15 @@
+StonePlantMound2,4828,4840,1014,1027
+StonePlantMound4,4814,4821,999,1006
+StonePlantMound1,4632,4638,987,993
+StoneLeafMound,4764,4771,974,983
+RLCraft_DecentZombie,4813,4813,971,971
+RLCraft_UndergroundRuin2,4808,4815,966,976
+RLCraft_DecentCaveSpider,4681,4681,956,956
+RLCraft_UndergroundRuin2,4676,4683,951,961
+StonePlantMound3,4820,4829,956,967
+StonePlantMound2,4743,4755,940,953
+SmallWoodenCottage2,4897,4905,940,948
+StoneBoulder,4644,4653,895,904
+StonePlantMound3,4700,4711,914,923
+StoneLeafMound,4847,4854,911,920
+StoneLeafMound,4631,4638,894,903

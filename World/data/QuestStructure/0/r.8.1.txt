@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,4588,4596,953,961
+StonePlantMound4,4121,4128,1001,1008
+StoneBoulder,4129,4138,977,986
+ElvenPond,4142,4172,962,991
+StonePlantMound3,4218,4229,972,981
+ShrineSmallAir,4218,4226,601,609
+ShrineSmallFire,4137,4147,583,593
+StonePlantMound1,4291,4297,741,747
+StoneBoulder,4288,4297,906,915
